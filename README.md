@@ -87,10 +87,6 @@ LibraryManagementSystem/
 * Multi-Admin Support
 * Cloud Database Integration
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 👨‍💻 Author
 
 **Shreya Phadtare**
